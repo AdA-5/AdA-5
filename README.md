@@ -20,7 +20,6 @@ I’m always looking to learn new things and find creative ways to blend traditi
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
 [![](https://visitcount.itsvg.in/api?id=AdA-5&icon=0&color=5)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AdaNtinyari) 
 
