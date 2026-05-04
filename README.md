@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&vCenter=true&width=180&height=30&lines=%E2%9C%A8+About+Me" alt="About Me"/>
 
