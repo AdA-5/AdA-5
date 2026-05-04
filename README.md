@@ -1,7 +1,10 @@
 # ✨ About Me
 Hi! I'm a **Software Developer** who loves turning complex problems into clean, functional code. I enjoy building things from the ground up, whether it's a website, a **Flutter** app, or a smart backend system.
 My main tools are **Python**, **Java**, and **Kotlin**, and I'm very comfortable working with **Flask** and **HTML** to bring ideas to life. Lately, I've been diving deep into **Machine Learning**. I’m really interested in how we can use data and predictive models to make software smarter and more helpful.
-I’m always looking to learn new things and find creative ways to blend traditional coding with AI! 🌸
+I’m always looking to learn new things and find creative ways to blend traditional coding with AI
+
+##portfolio
+ada-ntinyari.netlify.app
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3.ada_n) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ash306088) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ntinyariada35@gmail.com) 
