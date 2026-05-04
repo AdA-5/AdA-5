@@ -29,8 +29,8 @@ I'm always looking to learn new things and find creative ways to blend tradition
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdA-5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=ff69b4&icon_color=ffb6c1&text_color=c9d1d9&bg_color=0d1117&show_rank=true&rank_icon=percentile&line_height=28" height="195"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdA-5&theme=tokyonight&hide_border=true&layout=compact&title_color=ff69b4&text_color=c9d1d9&bg_color=0d1117&langs_count=6" height="195"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdA-5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=ff69b4&icon_color=ffb6c1&text_color=c9d1d9&bg_color=0d1117&show_rank=true&rank_icon=percentile" height="195"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdA-5&theme=tokyonight&hide_border=true&layout=compact&title_color=ff69b4&text_color=c9d1d9&bg_color=0d1117&langs_count=6" height="195"/>
 
 <br/>
 
