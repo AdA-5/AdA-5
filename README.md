@@ -1,10 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ada%20Ntinyari&fontSize=42&fontColor=ff69b4&animation=twinkling&fontAlignY=36&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Engineer%20in%20Progress&descAlignY=56&descSize=16&descColor=ffb6c1"/>
-
-</div>
-
----
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 
