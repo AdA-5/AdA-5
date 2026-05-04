@@ -2,15 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ada%20Ntinyari&fontSize=42&fontColor=ff69b4&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Engineer%20in%20Progress&descAlignY=55&descSize=16&descColor=ffb6c1"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Building+with+Python+%F0%9F%90%8D;Learning+Machine+Learning+%F0%9F%A7%A0;Turning+data+into+intelligence+%E2%9C%A8;Always+building%2C+always+learning+%F0%9F%8C%B8)](https://git.io/typing-svg)
-
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
-
-## ✨ About Me
+## 🌸 the girl behind the code
 
 Hi! I'm a **Software Developer** who loves turning complex problems into clean, functional code. I enjoy building things from the ground up, whether it's a website, a **Flutter** app, or a smart backend system.
 
@@ -22,7 +18,7 @@ I'm always looking to learn new things and find creative ways to blend tradition
 
 ---
 
-## 🌐 Socials
+## 💅 find me everywhere
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/3.ada_n)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white&style=for-the-badge)](https://tiktok.com/@ash306088)
@@ -30,7 +26,7 @@ I'm always looking to learn new things and find creative ways to blend tradition
 
 ---
 
-## 🔭 Currently Working On
+## 🧠 what i'm currently obsessing over
 
 ```python
 ada = {
@@ -44,16 +40,7 @@ ada = {
 
 ---
 
-## 🌸 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🌊 **Kenya Flood Risk Prediction** | ML web app predicting flood risk zones using Random Forest + interactive map | Python · scikit-learn · Flask · Leaflet.js |
-| 💪 **Strength Analytics System** | Desktop app for tracking workout progress with visual analytics | Python · Pandas · Matplotlib · SQLite |
-
----
-
-## 💻 Tech Stack
+## 🛠️ the tools i speak fluently
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -75,7 +62,7 @@ ada = {
 
 ---
 
-## 🧠 ML Roadmap
+## 🌙 where i'm headed
 
 ```
 ✅ Python          ✅ scikit-learn     ✅ Pandas & NumPy
@@ -86,23 +73,22 @@ ada = {
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 my github wrapped
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=AdA-5&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=ff69b4&icon_color=ffb6c1&text_color=ffffff&bg_color=0d1117)
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AdA-5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=ff69b4&icon_color=ffb6c1&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdA-5&theme=tokyonight&hide_border=true&layout=compact&title_color=ff69b4&text_color=c9d1d9&bg_color=0d1117"/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=AdA-5&theme=radical&hide_border=true&stroke=ff69b4&ring=ff69b4&fire=ffb6c1&currStreakLabel=ffb6c1&background=0d1117)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdA-5&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=ff69b4&text_color=ffffff&bg_color=0d1117)
+<img src="https://nirzak-streak-stats.vercel.app/?user=AdA-5&theme=tokyonight&hide_border=true&stroke=ff69b4&ring=ff69b4&fire=ffb6c1&currStreakLabel=ffb6c1&background=0d1117&dates=c9d1d9&sideLabels=ffb6c1"/>
 
 </div>
 
 ---
 
-## ✍️ Random Dev Quote
+## 💬 a word from the universe
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
@@ -110,7 +96,7 @@ ada = {
 
 [![](https://visitcount.itsvg.in/api?id=AdA-5&icon=6&color=8)](https://visitcount.itsvg.in)
 
-## 💰 You can support me
+## 💗 support my work
 
 [![PayPal](https://img.shields.io/badge/PayPal-ff69b4?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AdaNtinyari)
 
