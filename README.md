@@ -44,10 +44,6 @@ I'm always looking to learn new things and find creative ways to blend tradition
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdA-5&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 
-  <br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=AdA-5&theme=tokyonight&no-frame=true&margin-w=10"/>
-
 </div>
 
 ---
