@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ada%20Ntinyari&fontSize=42&fontColor=ff69b4&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Engineer%20in%20Progress&descAlignY=55&descSize=16&descColor=ffb6c1"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Building+with+Python+%F0%9F%90%8D;Learning+Machine+Learning+%F0%9F%A7%A0;Turning+data+into+intelligence+%E2%9C%A8;Always+building%2C+always+learning+%F0%9F%8C%B8)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ada%20Ntinyari&fontSize=42&fontColor=ff69b4&animation=twinkling&fontAlignY=36&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Engineer%20in%20Progress&descAlignY=56&descSize=16&descColor=ffb6c1"/>
 
 </div>
 
@@ -36,9 +34,14 @@ I'm always looking to learn new things and find creative ways to blend tradition
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&vCenter=true&width=280&height=30&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats"/>
 
-![](https://github-readme-stats.vercel.app/api?username=AdA-5&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=ff69b4&icon_color=ffb6c1&text_color=c9d1d9&bg_color=0d1117)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AdA-5&theme=tokyonight&hide_border=true&stroke=ff69b4&ring=ff69b4&fire=ffb6c1&currStreakLabel=ffb6c1&background=0d1117&dates=c9d1d9)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdA-5&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=ff69b4&text_color=c9d1d9&bg_color=0d1117)
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=AdA-5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=ff69b4&icon_color=ffb6c1&text_color=c9d1d9&bg_color=0d1117" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdA-5&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=ff69b4&text_color=c9d1d9&bg_color=0d1117" />
+
+<img src="https://streak-stats.demolab.com?user=AdA-5&theme=tokyonight&hide_border=true&ring=ff69b4&fire=ffb6c1&currStreakLabel=ffb6c1&background=0d1117&dates=c9d1d9&stroke=ff69b4&sideLabels=ffb6c1" />
+
+</div>
 
 ---
 
@@ -50,10 +53,10 @@ I'm always looking to learn new things and find creative ways to blend tradition
 
 [![](https://visitcount.itsvg.in/api?id=AdA-5&icon=6&color=8)](https://visitcount.itsvg.in)
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&vCenter=true&width=320&height=30&lines=%F0%9F%92%B0+You+can+help+me+by+Donating" alt="Donate"/>
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&vCenter=true&width=340&height=30&lines=%F0%9F%92%B0+You+can+help+me+by+Donating" alt="Donate"/>
 
 [![PayPal](https://img.shields.io/badge/PayPal-ff69b4?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AdaNtinyari)
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontColor=ff69b4"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
