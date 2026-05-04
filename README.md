@@ -29,13 +29,13 @@ I'm always looking to learn new things and find creative ways to blend tradition
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AdA-5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=ff69b4&icon_color=ffb6c1&text_color=c9d1d9&bg_color=0d1117" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdA-5&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=ff69b4&icon_color=ffb6c1&text_color=c9d1d9&bg_color=0d1117&show_rank=true&rank_icon=percentile" height="180"/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AdA-5&theme=tokyonight&hide_border=true&ring=ff69b4&fire=ffb6c1&currStreakLabel=ffb6c1" height="160"/>
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdA-5&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdA-5&theme=tokyonight&hide_border=true&layout=compact&title_color=ff69b4&text_color=c9d1d9&bg_color=0d1117&langs_count=6" height="180"/>
 
 </div>
 
