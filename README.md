@@ -35,11 +35,19 @@ I'm always looking to learn new things and find creative ways to blend tradition
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&vCenter=true&width=280&height=30&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats"/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdA-5&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  
+
+  <img src="https://github-readme-stats.vercel.app/api?username=AdA-5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160"/>
+
+  <img src="https://streak-stats.demolab.com?user=AdA-5&theme=tokyonight&hide_border=true" height="160"/>
+
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdA-5&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdA-5&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
+  <br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=AdA-5&theme=tokyonight&no-frame=true&margin-w=10"/>
+
 </div>
 
 ---
