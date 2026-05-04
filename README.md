@@ -29,9 +29,9 @@ I'm always looking to learn new things and find creative ways to blend tradition
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AdA-5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdA-5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=ff69b4&icon_color=ffb6c1&text_color=c9d1d9&bg_color=0d1117" height="160"/>
 
-  <img src="https://streak-stats.demolab.com?user=AdA-5&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AdA-5&theme=tokyonight&hide_border=true&ring=ff69b4&fire=ffb6c1&currStreakLabel=ffb6c1" height="160"/>
 
   <br/>
 
