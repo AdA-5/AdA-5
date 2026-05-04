@@ -3,7 +3,7 @@
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&vCenter=true&width=180&height=30&lines=%E2%9C%A8+About+Me" alt="About Me"/>
 
-Hi! I'm a **Software Developer** who loves turning complex problems into clean, functional code. I enjoy building things from the ground up, whether it's a website, a **Flutter** app, or a smart backend system.
+Hi! I'm a **Software Developer** who loves turning complex problems into clean, functional code. I enjoy building things from the ground up, whether it's a website or a smart backend system.
 
 My main tools are **Python**, **Java**, and **Kotlin**, and I'm very comfortable working with **Flask** and **HTML** to bring ideas to life. Lately, I've been diving deep into **Machine Learning**. I'm really interested in how we can use data and predictive models to make software smarter and more helpful.
 
@@ -15,7 +15,7 @@ I'm always looking to learn new things and find creative ways to blend tradition
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&vCenter=true&width=200&height=30&lines=%F0%9F%8C%90+Socials" alt="Socials"/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3.ada_n) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ash306088) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ntinyariada35@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adas_space) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@3iluvicecream) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ntinyariada35@gmail.com)
 
 ---
 
