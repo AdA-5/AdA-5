@@ -1,215 +1,56 @@
-<div align="center">
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8a598,30:d4847a,60:c9706a,100:b85c58&height=300&section=header&text=Ada%20Ntinyari&fontSize=58&fontColor=fff5f2&animation=twinkling&fontAlignY=42&desc=software%20developer%20%E2%80%A2%20machine%20learning%20%E2%80%A2%20building%20with%20purpose&descAlignY=58&descColor=ffe8e2&descSize=15"/>
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&vCenter=true&width=180&height=30&lines=%E2%9C%A8+About+Me" alt="About Me"/>
 
-</div>
+Hi! I'm a **Software Developer** who loves turning complex problems into clean, functional code. I enjoy building things from the ground up, whether it's a website or a smart backend system.
 
-<div align="center">
+My main tools are **Python**, **Java**, and **Kotlin**, and I'm very comfortable working with **Flask** and **HTML** to bring ideas to life. Lately, I've been diving deep into **Machine Learning**. I'm really interested in how we can use data and predictive models to make software smarter and more helpful.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=500&size=22&pause=1000&color=c9706a&center=true&vCenter=true&width=560&height=45&lines=crafting+solutions+through+code+%E2%9C%A6;exploring+the+intersection+of+AI+%26+software+%F0%9F%8C%B8;clean+code+%E2%80%A2+real+impact+%E2%80%A2+always+building)](https://git.io/typing-svg)
+I'm always looking to learn new things and find creative ways to blend traditional coding with AI
 
-</div>
-
----
-
-<div align="center">
-
-<!-- row 1 — elegant feminine + coding girl -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6enVzYmx3aHR6dGF6eTg5NWNvenozemd4bWdrdGh0bGd4NnhtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="200" title="in her element"/>
-&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzV6aWZ5eDNhNXRuNmN4ZHdtaGJ5aHhwZWVkMHBwZXo5OGsyYmRkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="200" title="github contributions"/>
-&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFkdW9qNGc2MHRmdDd3dTAzd3dxeTgxNzYyZmp5bHo2NHBxbmphZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" title="building"/>
-
-<br/><br/>
-
-<!-- row 2 — florals + aesthetic + moody elegant -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXgzNHlhNm82emNrZmk5N3pweWNlajZldHNvZHVpdm15aHlueTc3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwF34cGDoFFhRfy/giphy.gif" width="200" title="blooming"/>
-&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWV0aWt4OGhiZGlxdGp4bGhraGZ3ZWE1aGQ5Y3RsYW5la3ptcHhxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Lg7rusOVNC/giphy.gif" width="200" title="elegant"/>
-&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzc0aHd6bnZtd3UxdzVsMW9vY2w5YzE2Y2dydzlhZm84YW1vOGFxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRuo6sLetdllPAQ/giphy.gif" width="200" title="aesthetic"/>
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Deployed-ff69b4?style=for-the-badge&logo=netlify&logoColor=white)](https://ada-ntinyari.netlify.app)
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9vOHU5azV6b3FvZXdqcXU2cnB6ZThvbTV2MHoxeXZpbzZ3ZDdlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="230"/>
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&vCenter=true&width=200&height=30&lines=%F0%9F%8C%90+Socials" alt="Socials"/>
 
-&nbsp;
-
-I'm a **Software Developer** who builds things that are both functional and intentional — web platforms, desktop tools, games, and machine learning experiments.
-
-&nbsp;
-
-🌿 &nbsp;**Languages:** Python · Java · Kotlin · JavaScript  
-🌸 &nbsp;**Web:** Flask · React · HTML · CSS · Jinja  
-🧠 &nbsp;**Data & ML:** TensorFlow · Pandas · NumPy · Scikit-learn · Matplotlib  
-🗄️ &nbsp;**Databases:** MySQL · SQLite  
-🎮 &nbsp;**Also into:** Unity · C# · game mechanics · 3D environments  
-💪 &nbsp;**Off-screen:** strength training & hitting new PRs  
-
-&nbsp;
-
-> *clean code. real impact. always building.*
-
-&nbsp;
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/ada--ntinyari.netlify.app-c9706a?style=for-the-badge&logo=netlify&logoColor=fff5f2)](https://ada-ntinyari.netlify.app)
-
-</div>
-
-<br clear="right"/>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adas_space) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@3iluvicecream) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ntinyariada35@gmail.com)
 
 ---
 
-<div align="center">
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&vCenter=true&width=240&height=30&lines=%F0%9F%92%BB+Tech+Stack" alt="Tech Stack"/>
 
-[![Instagram](https://img.shields.io/badge/@adas__space-e8a598?style=for-the-badge&logo=instagram&logoColor=fff5f2)](https://instagram.com/adas_space)&nbsp;
-[![TikTok](https://img.shields.io/badge/@3iluvicecream-d4847a?style=for-the-badge&logo=tiktok&logoColor=fff5f2)](https://tiktok.com/@3iluvicecream)&nbsp;
-[![Email](https://img.shields.io/badge/ntinyariada35@gmail.com-c9706a?style=for-the-badge&logo=gmail&logoColor=fff5f2)](mailto:ntinyariada35@gmail.com)
-
-</div>
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
 
-<div align="center">
-
-### languages
-
-![Python](https://img.shields.io/badge/Python-e8c4be?style=for-the-badge&logo=python&logoColor=7a3535)
-![Java](https://img.shields.io/badge/Java-ddb0aa?style=for-the-badge&logo=java&logoColor=7a3535)
-![Kotlin](https://img.shields.io/badge/Kotlin-e8c4be?style=for-the-badge&logo=kotlin&logoColor=7a3535)
-![JavaScript](https://img.shields.io/badge/JavaScript-ddb0aa?style=for-the-badge&logo=javascript&logoColor=7a3535)
-
-### frontend & mobile
-
-![React](https://img.shields.io/badge/React-e8c4be?style=for-the-badge&logo=react&logoColor=7a3535)
-![Flutter](https://img.shields.io/badge/Flutter-ddb0aa?style=for-the-badge&logo=flutter&logoColor=7a3535)
-![HTML5](https://img.shields.io/badge/HTML5-e8c4be?style=for-the-badge&logo=html5&logoColor=7a3535)
-![CSS3](https://img.shields.io/badge/CSS3-ddb0aa?style=for-the-badge&logo=css3&logoColor=7a3535)
-
-### backend & data
-
-![Flask](https://img.shields.io/badge/Flask-e8c4be?style=for-the-badge&logo=flask&logoColor=7a3535)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ddb0aa?style=for-the-badge&logo=tensorflow&logoColor=7a3535)
-![Pandas](https://img.shields.io/badge/Pandas-e8c4be?style=for-the-badge&logo=pandas&logoColor=7a3535)
-![NumPy](https://img.shields.io/badge/NumPy-ddb0aa?style=for-the-badge&logo=numpy&logoColor=7a3535)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-e8c4be?style=for-the-badge&logo=scikit-learn&logoColor=7a3535)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ddb0aa?style=for-the-badge&logo=matplotlib&logoColor=7a3535)
-
-### tools & databases
-
-![MySQL](https://img.shields.io/badge/MySQL-e8c4be?style=for-the-badge&logo=mysql&logoColor=7a3535)
-![SQLite](https://img.shields.io/badge/SQLite-ddb0aa?style=for-the-badge&logo=sqlite&logoColor=7a3535)
-![Jinja](https://img.shields.io/badge/Jinja-e8c4be?style=for-the-badge&logo=jinja&logoColor=7a3535)
-![Git](https://img.shields.io/badge/Git-ddb0aa?style=for-the-badge&logo=git&logoColor=7a3535)
-![Unity](https://img.shields.io/badge/Unity-e8c4be?style=for-the-badge&logo=unity&logoColor=7a3535)
-
-</div>
-
----
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&vCenter=true&width=280&height=30&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats"/>
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmVmMm1vZnQ4ZXBvNzJrY2p3MHEwNXQ3Zmg5Y3RxbGxtcjY2N25kOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9k01Y5IKizNmC7S/giphy.gif" width="220" title="she codes"/>
-&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlwdmd2ZnY3OWV5dGlvdHN1OW5paTduMzZtMGlkb3o5cXFlbTRqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR4yk0X20KimqJ2/giphy.gif" width="220" title="in flow"/>
-
-</div>
-
----
-
-<!-- ✨ CUSTOM METRICS SHIMMER CARD ✨ -->
-<div align="center">
-
-<img src="github-metrics.svg" alt="GitHub Metrics" width="100%"/>
-
-</div>
-
----
-
-<!-- STATS + LANGUAGES -->
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=AdA-5&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=c9706a&icon_color=d4847a&text_color=7a3535&bg_color=fff5f2&border_radius=12&show_rank=true" height="190"/>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdA-5&hide_border=true&layout=compact&title_color=c9706a&text_color=7a3535&bg_color=fff5f2&langs_count=8&border_radius=12" height="190"/>
-</td>
-</tr>
-</table>
-
-<!-- STREAK -->
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AdA-5&hide_border=true&ring=c9706a&fire=d4847a&currStreakLabel=b85c58&background=fff5f2&dates=a06060&sideLabels=d4847a&currStreakNum=c9706a&sideNums=c9706a&border_radius=12" height="185"/>
-
-</div>
-
----
-
-<!-- COHESIVE PROFILE SUMMARY CARDS — matched colors exactly -->
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdA-5&bg_color=fff5f2&text_color=7a3535&title_color=c9706a&color_1=e8a598&color_2=d4847a&color_3=c9706a&color_4=b85c58&border_radius=12" width="100%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdA-5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=ff69b4&icon_color=ffb6c1&text_color=c9d1d9&bg_color=0d1117&show_rank=true&rank_icon=percentile" height="195"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdA-5&theme=tokyonight&hide_border=true&layout=compact&title_color=ff69b4&text_color=c9d1d9&bg_color=0d1117&langs_count=6" height="195"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdA-5&bg_color=fff5f2&text_color=7a3535&title_color=c9706a&color_1=e8a598&color_2=d4847a&color_3=c9706a&color_4=b85c58&border_radius=12" height="175"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdA-5&bg_color=fff5f2&text_color=7a3535&title_color=c9706a&color_1=e8a598&color_2=d4847a&color_3=c9706a&color_4=b85c58&border_radius=12" height="175"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdA-5&bg_color=fff5f2&text_color=7a3535&title_color=c9706a&color_1=e8a598&color_2=d4847a&color_3=c9706a&color_4=b85c58&border_radius=12" height="175"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdA-5&bg_color=fff5f2&text_color=7a3535&title_color=c9706a&color_1=e8a598&color_2=d4847a&color_3=c9706a&color_4=b85c58&border_radius=12" height="175"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AdA-5&theme=tokyonight&hide_border=true&ring=ff69b4&fire=ffb6c1&currStreakLabel=ffb6c1&stroke=0d1117&background=0d1117&dates=c9d1d9&sideLabels=ffb6c1"/>
 
 </div>
 
 ---
 
-<!-- ACTIVITY GRAPH -->
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&vCenter=true&width=300&height=30&lines=%E2%9C%8D%EF%B8%8F+Random+Dev+Quote" alt="Random Dev Quote"/>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdA-5&bg_color=fff5f2&color=c9706a&line=d4847a&point=b85c58&area=true&area_color=e8c4be&hide_border=true&border_radius=12" width="100%"/>
-
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-<!-- VISITOR COUNT -->
+[![](https://visitcount.itsvg.in/api?id=AdA-5&icon=6&color=8)](https://visitcount.itsvg.in)
+
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&vCenter=true&width=340&height=30&lines=%F0%9F%92%B0+You+can+help+me+by+Donating" alt="Donate"/>
+
+[![PayPal](https://img.shields.io/badge/PayPal-ff69b4?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AdaNtinyari)
 
 <div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=AdA-5&label=profile%20views&icon=6&color=9&pretty=true)](https://visitcount.itsvg.in)
-
-</div>
-
----
-
-<div align="center">
-
-> *"One accurate measurement is worth more than a thousand expert opinions."*
->
-> — Grace Hopper
-
-&nbsp;
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFneGd6aTAzNzlqdGJ6dGJ6MGd2ZHkxejV3eGdla3NsaWc2aGoxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwxmQcvqNDCmzok/giphy.gif" width="160" title="thank you"/>
-
-&nbsp;
-
-[![Support](https://img.shields.io/badge/support%20my%20work-c9706a?style=for-the-badge&logo=paypal&logoColor=fff5f2)](https://paypal.me/AdaNtinyari)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b85c58,40:c9706a,70:d4847a,100:e8a598&height=130&section=footer&animation=twinkling"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
