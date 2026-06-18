@@ -1,38 +1,30 @@
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdA-5&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=F8C8DC&icon_color=F8C8DC&text_color=ffffff&bg_color=0d1117" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdA-5&layout=compact&include_all_commits=true&count_private=true&hide_border=true&title_color=F8C8DC&text_color=ffffff&bg_color=0d1117" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AdA-5&theme=tokyonight&hide_border=true&ring=F8C8DC&fire=F4D4E5&currStreakLabel=F8C8DC"/>
-
-</div><div align="center">
-
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180"/>
 
 # Ada Ntinyari
 
 ### Full-Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F8C8DC&center=true&vCenter=true&width=650&lines=Full-stack+web+development;Frontend+%7C+Backend+%7C+APIs+%7C+Databases;Python+%7C+Java+%7C+Kotlin+%7C+JavaScript"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F8C8DC&center=true&vCenter=true&width=700&lines=Full-stack+Web+Development;Frontend+%7C+Backend+%7C+APIs+%7C+Databases;Python+%7C+Java+%7C+Kotlin+%7C+JavaScript"/>
 
 </div>
 
 ---
 
-<p align="center">──────── ✧ ────────</p>
+<p align="center">✦ ──────── ✧ ──────── ✦</p>
 
 ## About Me
 
-Full-stack developer focused on building scalable web applications and backend systems.
+Full-stack developer focused on building scalable and efficient web applications.
 
-I work across frontend and backend development using modern frameworks and databases, with a strong focus on clean architecture and maintainable code.
+I work with both frontend and backend technologies, including APIs, databases, and modern frameworks.
+
+I enjoy building complete systems from user interface to server-side logic with clean architecture and maintainable code.
 
 ---
 
-<p align="center">──────── ✧ ────────</p>
+<p align="center">✦ ──────── ✧ ──────── ✦</p>
 
 ## Tech Stack
 
@@ -48,39 +40,49 @@ I work across frontend and backend development using modern frameworks and datab
 
 ---
 
-<p align="center">──────── ✧ ────────</p>
+<p align="center">✦ ──────── ✧ ──────── ✦</p>
 
-## GitHub Statistics
+## GitHub Stats
 
 <div align="center">
 
-<!-- PUBLIC STATS -->
-<img src="https://github-readme-stats.vercel.app/api?username=AdA-5&show_icons=true&hide_border=true&title_color=F8C8DC&icon_color=F8C8DC&text_color=ffffff&bg_color=0d1117" height="170"/>
+<!-- MAIN STATS (includes private contributions if enabled on GitHub) -->
+<img src="https://github-readme-stats.vercel.app/api?username=AdA-5&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=F8C8DC&icon_color=F8C8DC&text_color=ffffff&bg_color=0d1117" height="170"/>
 
-<!-- TOP LANGUAGES -->
+<!-- LANGUAGES -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdA-5&layout=compact&hide_border=true&title_color=F8C8DC&text_color=ffffff&bg_color=0d1117" height="170"/>
 
-<!-- GITHUB STREAK -->
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AdA-5&theme=tokyonight&hide_border=true&ring=F8C8DC&fire=F4D4E5&currStreakLabel=F8C8DC"/>
+<!-- STREAK -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AdA-5&theme=tokyonight&hide_border=true&ring=F8C8DC&fire=F4D4E5&currStreakLabel=F8C8DC&background=0d1117"/>
 
 </div>
 
 ---
 
-<p align="center">──────── ✧ ────────</p>
+<p align="center">✦ ──────── ✧ ──────── ✦</p>
 
-## Currently Working On
+## Activity Overview
+
+- Contributions tracked via GitHub graph  
+- Public + private activity (if enabled in GitHub settings)  
+- Continuous learning and project development  
+
+---
+
+<p align="center">✦ ──────── ✧ ──────── ✦</p>
+
+## Currently Focused On
 
 - Full-stack web applications  
 - Backend API development  
 - Database design and optimization  
-- Improving system performance and scalability  
+- System scalability and performance  
 
 ---
 
-<p align="center">──────── ✧ ────────</p>
+<p align="center">✦ ──────── ✧ ──────── ✦</p>
 
 ## Socials
 
@@ -90,7 +92,7 @@ I work across frontend and backend development using modern frameworks and datab
 
 ---
 
-<p align="center">──────── ✧ ────────</p>
+<p align="center">✦ ──────── ✧ ──────── ✦</p>
 
 ## Support
 
