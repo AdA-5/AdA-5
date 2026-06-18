@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,14,20&height=280&section=header&text=Ada%20Ntinyari&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Developer%20•%20Machine%20Learning%20•%20Building%20with%20purpose&descAlignY=55&descAlign=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8a598,30:d4847a,60:c9706a,100:b85c58&height=300&section=header&text=Ada%20Ntinyari&fontSize=58&fontColor=fff5f2&animation=twinkling&fontAlignY=42&desc=software%20developer%20%E2%80%A2%20machine%20learning%20%E2%80%A2%20building%20with%20purpose&descAlignY=58&descColor=ffe8e2&descSize=15"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=500&size=22&pause=1000&color=c9706a&center=true&vCenter=true&width=560&height=45&lines=crafting+solutions+through+code+%E2%9C%A6;exploring+the+intersection+of+AI+%26+software+%F0%9F%8C%B8;clean+code+%E2%80%A2+real+impact+%E2%80%A2+always+building)](https://git.io/typing-svg)
 
 </div>
 
@@ -8,7 +14,62 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=E879F9&center=true&vCenter=true&width=500&height=40&lines=Crafting+solutions+through+code;Exploring+the+intersection+of+AI+%26+software;Always+learning,+always+building)](https://git.io/typing-svg)
+<!-- row 1 — elegant feminine + coding girl -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6enVzYmx3aHR6dGF6eTg5NWNvenozemd4bWdrdGh0bGd4NnhtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="200" title="in her element"/>
+&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzV6aWZ5eDNhNXRuNmN4ZHdtaGJ5aHhwZWVkMHBwZXo5OGsyYmRkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="200" title="github contributions"/>
+&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFkdW9qNGc2MHRmdDd3dTAzd3dxeTgxNzYyZmp5bHo2NHBxbmphZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" title="building"/>
+
+<br/><br/>
+
+<!-- row 2 — florals + aesthetic + moody elegant -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXgzNHlhNm82emNrZmk5N3pweWNlajZldHNvZHVpdm15aHlueTc3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwF34cGDoFFhRfy/giphy.gif" width="200" title="blooming"/>
+&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWV0aWt4OGhiZGlxdGp4bGhraGZ3ZWE1aGQ5Y3RsYW5la3ptcHhxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Lg7rusOVNC/giphy.gif" width="200" title="elegant"/>
+&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzc0aHd6bnZtd3UxdzVsMW9vY2w5YzE2Y2dydzlhZm84YW1vOGFxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRuo6sLetdllPAQ/giphy.gif" width="200" title="aesthetic"/>
+
+</div>
+
+---
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9vOHU5azV6b3FvZXdqcXU2cnB6ZThvbTV2MHoxeXZpbzZ3ZDdlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="230"/>
+
+&nbsp;
+
+I'm a **Software Developer** who builds things that are both functional and intentional — web platforms, desktop tools, games, and machine learning experiments.
+
+&nbsp;
+
+🌿 &nbsp;**Languages:** Python · Java · Kotlin · JavaScript  
+🌸 &nbsp;**Web:** Flask · React · HTML · CSS · Jinja  
+🧠 &nbsp;**Data & ML:** TensorFlow · Pandas · NumPy · Scikit-learn · Matplotlib  
+🗄️ &nbsp;**Databases:** MySQL · SQLite  
+🎮 &nbsp;**Also into:** Unity · C# · game mechanics · 3D environments  
+💪 &nbsp;**Off-screen:** strength training & hitting new PRs  
+
+&nbsp;
+
+> *clean code. real impact. always building.*
+
+&nbsp;
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/ada--ntinyari.netlify.app-c9706a?style=for-the-badge&logo=netlify&logoColor=fff5f2)](https://ada-ntinyari.netlify.app)
+
+</div>
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/@adas__space-e8a598?style=for-the-badge&logo=instagram&logoColor=fff5f2)](https://instagram.com/adas_space)&nbsp;
+[![TikTok](https://img.shields.io/badge/@3iluvicecream-d4847a?style=for-the-badge&logo=tiktok&logoColor=fff5f2)](https://tiktok.com/@3iluvicecream)&nbsp;
+[![Email](https://img.shields.io/badge/ntinyariada35@gmail.com-c9706a?style=for-the-badge&logo=gmail&logoColor=fff5f2)](mailto:ntinyariada35@gmail.com)
 
 </div>
 
@@ -16,86 +77,36 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/JYsLSh0BqI9B6zWvRR/giphy.gif" width="180"/>
-<img src="https://media.giphy.com/media/nF1kAhgJXAVJSulK3s/giphy.gif" width="180"/>
-<img src="https://media.giphy.com/media/WUlplwMpOCEcC7WnZt/giphy.gif" width="180"/>
+### languages
 
-</div>
+![Python](https://img.shields.io/badge/Python-e8c4be?style=for-the-badge&logo=python&logoColor=7a3535)
+![Java](https://img.shields.io/badge/Java-ddb0aa?style=for-the-badge&logo=java&logoColor=7a3535)
+![Kotlin](https://img.shields.io/badge/Kotlin-e8c4be?style=for-the-badge&logo=kotlin&logoColor=7a3535)
+![JavaScript](https://img.shields.io/badge/JavaScript-ddb0aa?style=for-the-badge&logo=javascript&logoColor=7a3535)
 
----
+### frontend & mobile
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=500&color=E879F9&vCenter=true&width=150&height=30&lines=About+Me" alt="About Me"/>
+![React](https://img.shields.io/badge/React-e8c4be?style=for-the-badge&logo=react&logoColor=7a3535)
+![Flutter](https://img.shields.io/badge/Flutter-ddb0aa?style=for-the-badge&logo=flutter&logoColor=7a3535)
+![HTML5](https://img.shields.io/badge/HTML5-e8c4be?style=for-the-badge&logo=html5&logoColor=7a3535)
+![CSS3](https://img.shields.io/badge/CSS3-ddb0aa?style=for-the-badge&logo=css3&logoColor=7a3535)
 
-<div align="center">
-<img align="right" src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="280"/>
-</div>
+### backend & data
 
-I'm a **Software Developer** passionate about creating impactful web platforms and practical coding solutions. My approach combines technical precision with creative problem-solving.
+![Flask](https://img.shields.io/badge/Flask-e8c4be?style=for-the-badge&logo=flask&logoColor=7a3535)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ddb0aa?style=for-the-badge&logo=tensorflow&logoColor=7a3535)
+![Pandas](https://img.shields.io/badge/Pandas-e8c4be?style=for-the-badge&logo=pandas&logoColor=7a3535)
+![NumPy](https://img.shields.io/badge/NumPy-ddb0aa?style=for-the-badge&logo=numpy&logoColor=7a3535)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-e8c4be?style=for-the-badge&logo=scikit-learn&logoColor=7a3535)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ddb0aa?style=for-the-badge&logo=matplotlib&logoColor=7a3535)
 
-**What I work with:**
-- **Primary:** Python, Java, Kotlin
-- **Web:** Flask, HTML, CSS, React
-- **Data & ML:** TensorFlow, Pandas, NumPy, Scikit-learn, Matplotlib
-- **Databases:** MySQL, SQLite
+### tools & databases
 
-Currently exploring **Machine Learning** and how predictive models can enhance software functionality. I believe in writing clean, maintainable code that makes a real difference.
-
-**Always learning. Always building.**
-
----
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Live-DB2777?style=for-the-badge&logo=netlify&logoColor=white)](https://ada-ntinyari.netlify.app)
-
-</div>
-
----
-
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=500&color=E879F9&vCenter=true&width=150&height=30&lines=Connect" alt="Connect"/>
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adas_space)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@3iluvicecream)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ntinyariada35@gmail.com)
-
-</div>
-
----
-
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=500&color=E879F9&vCenter=true&width=180&height=30&lines=Tech+Stack" alt="Tech Stack"/>
-
-<div align="center">
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frontend & Mobile
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Data
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Tools & Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-e8c4be?style=for-the-badge&logo=mysql&logoColor=7a3535)
+![SQLite](https://img.shields.io/badge/SQLite-ddb0aa?style=for-the-badge&logo=sqlite&logoColor=7a3535)
+![Jinja](https://img.shields.io/badge/Jinja-e8c4be?style=for-the-badge&logo=jinja&logoColor=7a3535)
+![Git](https://img.shields.io/badge/Git-ddb0aa?style=for-the-badge&logo=git&logoColor=7a3535)
+![Unity](https://img.shields.io/badge/Unity-e8c4be?style=for-the-badge&logo=unity&logoColor=7a3535)
 
 </div>
 
@@ -103,28 +114,28 @@ Currently exploring **Machine Learning** and how predictive models can enhance s
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/7vP60cjuJSJ9CMuiK1/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTgxaWs5NzV6aHB6eDd3NzlldnYxaDlwb2pxNXhvaTRpdzBhYW13cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="220" title="she codes"/>
+&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlwdmd2ZnY3OWV5dGlvdHN1OW5paTduMzZtMGlkb3o5cXFlbTRqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR4yk0X20KimqJ2/giphy.gif" width="220" title="in flow"/>
 
 </div>
 
 ---
-
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=500&color=E879F9&vCenter=true&width=200&height=30&lines=GitHub+Stats" alt="GitHub Stats"/>
 
 <div align="center">
 
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=AdA-5&show_icons=true&theme=gradient&hide_border=true&include_all_commits=true&count_private=true&title_color=E879F9&icon_color=FF79C6&text_color=c9d1d9&bg_color=0d1117&show_rank=true&border_radius=10" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AdA-5&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=c9706a&icon_color=d4847a&text_color=7a3535&bg_color=fff5f2&border_radius=12&show_rank=true" height="190"/>
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdA-5&theme=gradient&hide_border=true&layout=compact&title_color=E879F9&text_color=c9d1d9&bg_color=0d1117&langs_count=6&border_radius=10" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdA-5&hide_border=true&layout=compact&title_color=c9706a&text_color=7a3535&bg_color=fff5f2&langs_count=8&border_radius=12" height="190"/>
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AdA-5&theme=gradient&hide_border=true&ring=E879F9&fire=FF79C6&currStreakLabel=FF79C1&stroke=0d1117&background=0d1117&dates=c9d1d9&sideLabels=FF79C6&border_radius=10" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AdA-5&hide_border=true&ring=c9706a&fire=d4847a&currStreakLabel=b85c58&background=fff5f2&dates=a06060&sideLabels=d4847a&currStreakNum=c9706a&sideNums=c9706a&border_radius=12" height="185"/>
 
 </div>
 
@@ -132,10 +143,19 @@ Currently exploring **Machine Learning** and how predictive models can enhance s
 
 <div align="center">
 
-### Contribution Overview
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdA-5&theme=rose_pine&border_radius=12" width="100%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdA-5&theme=gradient&border_radius=10" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdA-5&theme=gradient&border_radius=10" height="180"/>
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdA-5&theme=rose_pine&border_radius=12" height="175"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdA-5&theme=rose_pine&border_radius=12" height="175"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdA-5&theme=rose_pine&border_radius=12" height="175"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdA-5&theme=rose_pine&border_radius=12" height="175"/>
 
 </div>
 
@@ -143,38 +163,26 @@ Currently exploring **Machine Learning** and how predictive models can enhance s
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/WUlplwMpOCEcC7WnZt/giphy.gif" width="180"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdA-5&bg_color=fff5f2&color=c9706a&line=d4847a&point=b85c58&area=true&area_color=e8c4be&hide_border=true&border_radius=12" width="100%"/>
 
 </div>
 
 ---
-
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=500&color=E879F9&vCenter=true&width=220&height=30&lines=Inspiration" alt="Quote"/>
 
 <div align="center">
 
 > *"One accurate measurement is worth more than a thousand expert opinions."*
-> 
-> — **Grace Hopper**
+>
+> — Grace Hopper
+
+&nbsp;
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFneGd6aTAzNzlqdGJ6dGJ6MGd2ZHkxejV3eGdla3NsaWc2aGoxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwxmQcvqNDCmzok/giphy.gif" width="160" title="thank you"/>
+
+&nbsp;
+
+[![Support](https://img.shields.io/badge/support%20my%20work-c9706a?style=for-the-badge&logo=paypal&logoColor=fff5f2)](https://paypal.me/AdaNtinyari)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b85c58,40:c9706a,70:d4847a,100:e8a598&height=130&section=footer&animation=twinkling"/>
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/nF1kAhgJXAVJSulK3s/giphy.gif" width="150"/>
-
-### Thank you for stopping by
-
-<div align="center">
-
-[![Support](https://img.shields.io/badge/Support%20my%20work-PayPal-DB2777?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AdaNtinyari)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,14,20&height=120&section=footer&animation=twinkling"/>
-
-</div>
-
----
