@@ -1,9 +1,9 @@
-name: GitHub Metrics
+name: My Profile Metrics
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # refreshes every 6 hours
-  workflow_dispatch:          # lets you run it manually too
+    - cron: "0 */6 * * *"   # Refreshes every 6 hours
+  workflow_dispatch:          # Lets you run it manually whenever you want!
   push:
     branches: [main]
 
@@ -20,32 +20,47 @@ jobs:
           user: AdA-5
           filename: github-metrics.svg
 
-          # ── TEMPLATE & PALETTE ──────────────────────────────────────
+          # ── 🌸 THEME & COHESIVE AESTHETIC ───────────────────────────
           config_timezone: Africa/Nairobi
           config_padding: 10
           config_display: large
-
-          # ── BASE ────────────────────────────────────────────────────
+          config_theme: soft         # Soft, dreamy pastel background 🎀
+          
+          # ── ✨ GLITTER SHIMMER EFFECT (CUSTOM CSS INJECTION) ────────
+          # This injects a subtle animated "shimmer/glisten" gradient 
+          # across your card so it catches the light when viewed!
+          config_twconfigured: |
+            @keyframes glitter {
+              0% { background-position: -200% 0; }
+              100% { background-position: 200% 0; }
+            }
+            .header {
+              background: linear-gradient(120deg, rgba(255,255,255,0) 30%, rgba(255,255,255,0.8) 50%, rgba(255,255,255,0) 70%);
+              background-size: 200% 100%;
+              animation: glitter 4s infinite linear;
+            }
+          
+          # ── 📊 BASE SECTIONS ────────────────────────────────────────
           base: header, activity, community, repositories, metadata
 
-          # ── PLUGINS ─────────────────────────────────────────────────
+          # ── 🎀 PLUGINS & ACCENTS ────────────────────────────────────
 
-          # languages — how your code is split
+          # Languages — Customized with beautiful pinks and roses
           plugin_languages: yes
           plugin_languages_limit: 10
           plugin_languages_threshold: 0%
-          plugin_languages_colors: rose
+          plugin_languages_colors: rose  # Switches your code charts into shades of pink/rose! 💕
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
           plugin_languages_details: bytes-size, percentage, lines
 
-          # activity — recent commits, PRs, issues
+          # Activity — Recent commits and code updates
           plugin_activity: yes
           plugin_activity_limit: 6
           plugin_activity_days: 14
           plugin_activity_filter: all
 
-          # habits — when you code, what IDE, etc
+          # Habits — Displays your daily coding patterns beautifully
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
@@ -53,37 +68,28 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_trim: yes
 
-          # achievements — unlock badges
+          # Achievements — Fixed the "C" circle! Now it displays as cute little compact badges/stickers 🌟
           plugin_achievements: yes
-          plugin_achievements_threshold: C
+          plugin_achievements_threshold: C   
+          plugin_achievements_display: compact # Hides the big "C" circle for a cleaner look!
           plugin_achievements_secrets: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_limit: 0
 
-          # reactions — emoji reactions on your issues/PRs
+          # Reactions — Your community heart & sparkle reactions
           plugin_reactions: yes
           plugin_reactions_limit: 200
           plugin_reactions_details: percentage, count
 
-          # introduction — your bio
-          plugin_introduction: yes
-          plugin_introduction_title: yes
-
-          # repositories — pinned repos section
+          # Repositories — Showcases your favorite pinned projects
           plugin_repositories: yes
           plugin_repositories_featured: >-
             AdA-5/Strength-Analytics-System,
             AdA-5/Neon-Rush
 
-          # calendar — year contribution heatmap
+          # Calendar — Your contribution grid
           plugin_calendar: yes
           plugin_calendar_limit: 1
 
-          # topics — starred topics
+          # Topics — Displays your interests as clean icons
           plugin_topics: yes
           plugin_topics_mode: icons
           plugin_topics_limit: 20
-
-          # wakatime (optional — only if you use it)
-          # plugin_wakatime: yes
-          # plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
