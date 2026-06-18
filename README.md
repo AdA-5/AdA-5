@@ -1,91 +1,87 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180"/>
 
-# ✧ Ada Ntinyari ✧
+# Ada Ntinyari
 
-### ✦ Software Developer ✦ Machine Learning ✦ AI Systems Builder ✦
+### Full-Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=26&pause=900&color=FFB6D9&center=true&vCenter=true&width=700&lines=code+but+make+it+beautiful;building+intelligent+systems+from+scratch;python+%E2%9C%AF+java+%E2%9C%AF+kotlin+%E2%9C%AF+flask;soft+aesthetic+but+serious+engineering"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F8C8DC&center=true&vCenter=true&width=650&lines=Full-stack+web+development;Frontend+%7C+Backend+%7C+APIs+%7C+Databases;Python+%7C+Java+%7C+Kotlin+%7C+JavaScript"/>
 
 </div>
 
 ---
 
-<p align="center">✦ ──────── ⋆⋅☆⋅⋆ ──────── ✦</p>
+<p align="center">──────── ✧ ────────</p>
 
-## ✧ ABOUT ME ✧
+## About Me
 
-﹒clean code thinker with soft chaos energy  
-﹒builder of systems that actually work  
-﹒obsessed with machine learning + data logic  
-﹒turning ideas into real deployable products  
-﹒learning fast, building faster  
+Full-stack developer focused on building scalable web applications and backend systems.
+
+I work across frontend and backend development using modern frameworks and databases, with a strong focus on clean architecture and maintainable code.
 
 ---
 
-<p align="center">⋆ ─────── ✧ ─────── ⋆</p>
+<p align="center">──────── ✧ ────────</p>
 
-## ✧ TECH STACK ✧
+## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-FFB6D9?style=for-the-badge&logo=python&logoColor=black)
-![Java](https://img.shields.io/badge/Java-F8C8DC?style=for-the-badge&logo=openjdk&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-E8C3D1?style=for-the-badge&logo=kotlin&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-FFD6E8?style=for-the-badge&logo=flask&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-FFCAD4?style=for-the-badge&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-F4C2C2?style=for-the-badge&logo=css3&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFE5EC?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-FFD9E8?style=for-the-badge&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-FFB6D9?style=for-the-badge&logo=mysql&logoColor=black)
-
----
-
-<p align="center">✦ ⋅ ⋅ ⋅ ✦ ⋅ ⋅ ⋅ ✦</p>
-
-## ✧ SOCIALS ✧
-
-﹒Instagram → https://instagram.com/adas_space  
-﹒TikTok → https://tiktok.com/@3iluvicecream  
-﹒Email → mailto:ntinyariada35@gmail.com  
+![Python](https://img.shields.io/badge/Python-F8C8DC?style=for-the-badge&logo=python&logoColor=black)
+![Java](https://img.shields.io/badge/Java-E8C3D1?style=for-the-badge&logo=openjdk&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-F4D4E5?style=for-the-badge&logo=kotlin&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD6E8?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-FFE5EC?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-FFF0F5?style=for-the-badge&logo=flask&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-F8C8DC?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-E8C3D1?style=for-the-badge&logo=css3&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-F4D4E5?style=for-the-badge&logo=mysql&logoColor=black)
 
 ---
 
-<p align="center">⋆ ─────── ✧ ─────── ⋆</p>
+<p align="center">──────── ✧ ────────</p>
 
-## ✧ GITHUB STATS ✧
+## GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdA-5&show_icons=true&hide_border=true&title_color=FFB6D9&icon_color=F8C8DC&text_color=ffffff&bg_color=0d1117" height="180"/>
+<!-- PUBLIC STATS -->
+<img src="https://github-readme-stats.vercel.app/api?username=AdA-5&show_icons=true&hide_border=true&title_color=F8C8DC&icon_color=F8C8DC&text_color=ffffff&bg_color=0d1117" height="170"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdA-5&layout=compact&hide_border=true&title_color=FFB6D9&text_color=ffffff&bg_color=0d1117" height="180"/>
+<!-- TOP LANGUAGES -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdA-5&layout=compact&hide_border=true&title_color=F8C8DC&text_color=ffffff&bg_color=0d1117" height="170"/>
 
-</div>
+<!-- GITHUB STREAK -->
+<br/>
 
----
-
-<p align="center">✦ ──────── ⋆⋅☆⋅⋆ ──────── ✦</p>
-
-## ✧ CURRENT ERA ✧
-
-﹒machine learning deep dive  
-﹒AI system architecture exploration  
-﹒backend development mastery  
-﹒real world deployment projects  
-﹒becoming dangerously skilled in code  
-
----
-
-<p align="center">⋆ ⋅ ☆ ⋅ ⋆</p>
-
-## ✧ SUPPORT ✧
-
-﹒paypal.me/AdaNtinyari  
-
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AdA-5&theme=tokyonight&hide_border=true&ring=F8C8DC&fire=F4D4E5&currStreakLabel=F8C8DC"/>
 
 </div>
+
+---
+
+<p align="center">──────── ✧ ────────</p>
+
+## Currently Working On
+
+- Full-stack web applications  
+- Backend API development  
+- Database design and optimization  
+- Improving system performance and scalability  
+
+---
+
+<p align="center">──────── ✧ ────────</p>
+
+## Socials
+
+- Instagram: https://instagram.com/adas_space  
+- TikTok: https://tiktok.com/@3iluvicecream  
+- Email: mailto:ntinyariada35@gmail.com  
+
+---
+
+<p align="center">──────── ✧ ────────</p>
+
+## Support
+
+https://paypal.me/AdaNtinyari
