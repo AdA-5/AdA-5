@@ -1,5 +1,15 @@
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=AdA-5&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=F8C8DC&icon_color=F8C8DC&text_color=ffffff&bg_color=0d1117" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdA-5&layout=compact&include_all_commits=true&count_private=true&hide_border=true&title_color=F8C8DC&text_color=ffffff&bg_color=0d1117" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AdA-5&theme=tokyonight&hide_border=true&ring=F8C8DC&fire=F4D4E5&currStreakLabel=F8C8DC"/>
+
+</div><div align="center">
+
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180"/>
 
 # Ada Ntinyari
