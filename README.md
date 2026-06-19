@@ -11,7 +11,7 @@
 
 <p align="center"> ──────── ✦ ⋆ ✦ ──────── </p>
 
-## About Me
+## About Me ✦
 
 Full-stack developer building scalable and efficient web applications. I work across the entire stack—from frontend interfaces and backend APIs to database optimization. 
 
