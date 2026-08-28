@@ -1,172 +1,101 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F8E1E7,25:F1DADA,50:E8C4C4,75:D8A7B1,100:C08497&height=220&section=header&text=Ada%20Ntinyari&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=full-stack%20developer%20⋆౨ৎ˚⟡&descAlignY=58&descSize=22&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,50:FFB6D9,100:FF69B4&height=200&section=header&text=Ada%20Ntinyari&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20✦&descAlignY=62&descSize=18&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=34&duration=1&pause=60000&color=C08497&center=true&vCenter=true&width=500&height=70&lines=welcome+to+my+little+corner+%E2%9C%A7"/>
-
-![](https://img.shields.io/badge/📍_Nairobi,_Kenya-F8E1E7?style=for-the-badge)
-![](https://img.shields.io/badge/🎓_KCA_University-F1DADA?style=for-the-badge)
-![](https://img.shields.io/badge/💻_Full--Stack_Dev-E8C4C4?style=for-the-badge)
-![](https://img.shields.io/badge/✨_Always_Learning-D8A7B1?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Full-stack+web+development;Frontend+%7C+Backend+%7C+APIs+%7C+Databases;Python+%7C+Java+%7C+Kotlin+%7C+JavaScript"/>
 
 </div>
 
-<p align="center">✧˚ ᵎᵎ┊͙ ⋆｡‧˚ ʚ🎀ɞ ˚‧｡⋆ ┊ᵎᵎ ˚✧</p>
+<p align="center"> ──────── ✦ ⋆ ✦ ──────── </p>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=32&duration=1&pause=60000&color=D8A7B1&center=true&vCenter=true&width=350&height=60&lines=about+me+✿"/>
-</div>
+## About Me ✦
 
-<p align="center">
-a full-stack developer who likes building things that are technically solid <br/>
-<em>and</em> pretty to look at ⋆ clean architecture, soft UX, softer palette, always ˚₊‧꒰ა 💗 ໒꒱ ‧₊˚
-</p>
+Full-stack developer building scalable and efficient web applications. I work across the entire stack—from frontend interfaces and backend APIs to database optimization. 
 
-<div align="center">
+I focus on clean architecture, performance, and user-friendly design, ensuring that the solutions I build are both technically robust and visually elegant.
 
-![](https://img.shields.io/badge/🏗️_building_scalable_web_apps-F8E1E7?style=for-the-badge)
-![](https://img.shields.io/badge/🧠_obsessed_with_clean_code-F1DADA?style=for-the-badge)
-![](https://img.shields.io/badge/🌷_portfolios_should_be_fun-E8C4C4?style=for-the-badge)
-![](https://img.shields.io/badge/☕_running_on_coffee_%26_curiosity-D8A7B1?style=for-the-badge)
+<p align="center"> ──────── ✦ ⋆ ✦ ──────── </p>
 
-</div>
-
-<p align="center">✧˚ ᵎᵎ┊͙ ⋆｡‧˚ ʚ🎀ɞ ˚‧｡⋆ ┊ᵎᵎ ˚✧</p>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=32&duration=1&pause=60000&color=C08497&center=true&vCenter=true&width=350&height=60&lines=tech+stack+✿"/>
-</div>
+## Tech Stack ✦
 
 <div align="center">
 
-**languages** ⋆｡‧˚
+### Languages
+![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=black)
+![Java](https://img.shields.io/badge/Java-E8C3D1?style=for-the-badge&logo=openjdk&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-F8C8DC?style=for-the-badge&logo=kotlin&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD6E8?style=for-the-badge&logo=javascript&logoColor=black)
 
-<img src="https://skillicons.dev/icons?i=py,java,kotlin,js,ts&theme=dark"/>
+### Frontend & Mobile
+![Flutter](https://img.shields.io/badge/Flutter-FFB6D9?style=for-the-badge&logo=Flutter&logoColor=black)
+![React](https://img.shields.io/badge/React-FFB6D9?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-FFD6E8?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-F4C2C2?style=for-the-badge&logo=css3&logoColor=black)
 
-**frontend & mobile** ⋆｡‧˚
+### Backend & Web
+![Flask](https://img.shields.io/badge/Flask-FFE5EC?style=for-the-badge&logo=flask&logoColor=black)
+![Jinja](https://img.shields.io/badge/Jinja-F8C8DC?style=for-the-badge&logo=jinja&logoColor=black)
 
-<img src="https://skillicons.dev/icons?i=react,flutter,html,css&theme=dark"/>
+### Data & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-F4C2C2?style=for-the-badge&logo=tensorflow&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-E8C3D1?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-FFD6E8?style=for-the-badge&logo=pandas&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-FF69B4?style=for-the-badge&logo=numpy&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFE5EC?style=for-the-badge&logo=matplotlib&logoColor=black)
 
-**backend & data** ⋆｡‧˚
-
-<img src="https://skillicons.dev/icons?i=flask,tensorflow,sklearn,pandas,numpy&theme=dark"/>
-
-**databases & tools** ⋆｡‧˚
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github&theme=dark"/>
-
-<sub>🎀 hover to make them wiggle 🎀</sub>
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-FFB6D9?style=for-the-badge&logo=mysql&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-F8C8DC?style=for-the-badge&logo=sqlite&logoColor=black)
 
 </div>
 
-<p align="center">✧˚ ᵎᵎ┊͙ ⋆｡‧˚ ʚ🎀ɞ ˚‧｡⋆ ┊ᵎᵎ ˚✧</p>
+<p align="center"> ──────── ✦ ⋆ ✦ ──────── </p>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=32&duration=1&pause=60000&color=D8A7B1&center=true&vCenter=true&width=350&height=60&lines=projects+✿"/>
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**♡ Strength Analytics System**
-
-Desktop app for tracking &amp; analyzing strength-training progress.
-
-![Python](https://img.shields.io/badge/Python-F8E1E7?style=flat-square&logo=python&logoColor=black)
-![Tkinter](https://img.shields.io/badge/Tkinter-F1DADA?style=flat-square&logo=python&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
-
-**♡ Neon Rush**
-
-Arcade-style game, built across web, PWA, and Unity.
-
-![Unity](https://img.shields.io/badge/Unity-E8C4C4?style=flat-square&logo=unity&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-D8A7B1?style=flat-square&logo=csharp&logoColor=black)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**♡ Aesthetics Store**
-
-E-commerce site with M-Pesa payment integration.
-
-![React](https://img.shields.io/badge/React-C08497?style=flat-square&logo=react&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-F8E1E7?style=flat-square&logo=flask&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
-
-**♡ your next one goes here**
-
-*(drop a repo link in whenever ✧)*
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<p align="center">✧˚ ᵎᵎ┊͙ ⋆｡‧˚ ʚ🎀ɞ ˚‧｡⋆ ┊ᵎᵎ ˚✧</p>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=32&duration=1&pause=60000&color=C08497&center=true&vCenter=true&width=400&height=60&lines=github+analytics+✿"/>
-</div>
+## GitHub Analytics ✦
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdA-5&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=D8A7B1&icon_color=E8C4C4&text_color=ffffff&bg_color=0d1117" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdA-5&layout=compact&hide_border=true&title_color=D8A7B1&text_color=ffffff&bg_color=0d1117" height="170"/>
+| <img src="https://github-readme-stats.vercel.app/api?username=AdA-5&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=FF69B4&icon_color=FFB6D9&text_color=ffffff&bg_color=0d1117" height="170"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdA-5&layout=compact&hide_border=true&title_color=FF69B4&text_color=ffffff&bg_color=0d1117" height="170"/> |
+| :---: | :---: |
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdA-5&bg_color=0d1117&color=D8A7B1&line=D8A7B1&point=ffffff&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdA-5&bg_color=0d1117&color=FF69B4&line=FF69B4&point=ffffff&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AdA-5&theme=tokyonight&hide_border=true&background=0D1117&ring=D8A7B1&fire=E8C4C4&currStreakLabel=D8A7B1"/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AdA-5&theme=tokyonight&hide_border=true&ring=FF69B4&fire=FFD6E8&currStreakLabel=FF69B4"/>
+
+<br/><br/>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
-<p align="center">✧˚ ᵎᵎ┊͙ ⋆｡‧˚ ʚ🎀ɞ ˚‧｡⋆ ┊ᵎᵎ ˚✧</p>
+<p align="center"> ──────── ✦ ⋆ ✦ ──────── </p>
+
+## Currently Focused On ✦
+
+- ◦ Building full-stack web applications
+- ◦ Architecting backend systems & APIs
+- ◦ Database design & query optimization  
+- ◦ Enhancing UI/UX for better accessibility  
+- ◦ Designing scalable system architecture  
+
+<p align="center"> ──────── ✦ ⋆ ✦ ──────── </p>
+
+## Connect With Me ✦
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=32&duration=1&pause=60000&color=D8A7B1&center=true&vCenter=true&width=450&height=60&lines=currently+focused+on+✿"/>
-</div>
 
-<div align="center">
-
-![](https://img.shields.io/badge/🏗️_full--stack_web_apps-F8E1E7?style=for-the-badge)
-![](https://img.shields.io/badge/⚙️_backend_systems_%26_APIs-F1DADA?style=for-the-badge)
-![](https://img.shields.io/badge/🗄️_database_design-E8C4C4?style=for-the-badge)
-![](https://img.shields.io/badge/🎨_UI%2FUX_polish-D8A7B1?style=for-the-badge)
-![](https://img.shields.io/badge/🏛️_system_architecture-C08497?style=for-the-badge)
-
-</div>
-
-<p align="center">✧˚ ᵎᵎ┊͙ ⋆｡‧˚ ʚ🎀ɞ ˚‧｡⋆ ┊ᵎᵎ ˚✧</p>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=32&duration=1&pause=60000&color=C08497&center=true&vCenter=true&width=400&height=60&lines=let's+connect+✿"/>
-
-[![Instagram](https://img.shields.io/badge/Instagram-E8C4C4?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/adas_space)
-[![TikTok](https://img.shields.io/badge/TikTok-C08497?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@3iluvicecream)
-[![Email](https://img.shields.io/badge/Email-D8A7B1?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ntinyariada35@gmail.com)
-
-[![Support](https://img.shields.io/badge/sponsor_my_work-PayPal-F1DADA?style=for-the-badge&logo=paypal&logoColor=black)](https://paypal.me/AdaNtinyari)
-
-<img src="https://komarev.com/ghpvc/?username=AdA-5&color=D8A7B1&style=for-the-badge&label=come+again+⋆⭒˚｡⋆"/>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adas_space)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@3iluvicecream)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ntinyariada35@gmail.com)
 
 </div>
 
-<p align="center">✧˚ ᵎᵎ┊͙ ⋆｡‧˚ ʚ🎀ɞ ˚‧｡⋆ ┊ᵎᵎ ˚✧</p>
+<p align="center"> ──────── ✦ ⋆ ✦ ──────── </p>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=28&duration=1&pause=60000&color=D8A7B1&center=true&vCenter=true&width=400&height=50&lines=thanks+for+stopping+by+✿"/>
-</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C08497,25:D8A7B1,50:E8C4C4,75:F1DADA,100:F8E1E7&height=120&section=footer"/>
+[![Support](https://img.shields.io/badge/Sponsor_my_work-PayPal-FFB6D9?style=for-the-badge&logo=paypal&logoColor=black)](https://paypal.me/AdaNtinyari)
+
+</div>
