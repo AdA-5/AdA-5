@@ -15,9 +15,9 @@
 
 ## About Me ✦
 
-Full-stack developer building scalable and efficient web applications. I work across the entire stack—from frontend interfaces and backend APIs to database optimization. 
+Full-stack developer building scalable and efficient web applications. I work across the entire stack-from frontend interfaces and backend APIs to database optimization. 
 
-I focus on clean architecture, performance, and user-friendly design, ensuring that the solutions I build are both technically robust and visually elegant.
+I focus on clean architecture, performance and user-friendly design, ensuring that the solutions I build are both technically robust and visually elegant.
 
 <p align="center"> ──────── ✦ ⋆ ✦ ──────── </p>
 
@@ -79,11 +79,11 @@ I focus on clean architecture, performance, and user-friendly design, ensuring t
 
 ## Currently Focused On ✦
 
-- ◦ Building full-stack web applications
-- ◦ Architecting backend systems & APIs
-- ◦ Database design & query optimization  
-- ◦ Enhancing UI/UX for better accessibility  
-- ◦ Designing scalable system architecture  
+ ◦ Building full-stack web applications
+ ◦ Architecting backend systems & APIs
+ ◦ Database design & query optimization  
+ ◦ Enhancing UI/UX for better accessibility  
+ ◦ Designing scalable system architecture  
 
 <p align="center"> ──────── ✦ ⋆ ✦ ──────── </p>
 
