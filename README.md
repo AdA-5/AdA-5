@@ -5,6 +5,8 @@
 # Ada Ntinyari ✦
 ### Full-Stack Developer
 
+<img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width="80"/>
+
 ★ ﾟ.*﹒ ☆ . ° . ⋆ 　 ˚ ✦ 　 . 　 ☆ ﾟ. ﹒★ 　 . ⋆ ﾟ.* 　 ✦ . ° ☆
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Full-stack+web+development;Frontend+%7C+Backend+%7C+APIs+%7C+Databases;Python+%7C+Java+%7C+Kotlin+%7C+JavaScript"/>
@@ -15,9 +17,9 @@
 
 ## About Me ✦
 
-Full-stack developer building scalable and efficient web applications. I work across the entire stack-from frontend interfaces and backend APIs to database optimization. 
+Full-stack developer building scalable and efficient web applications. I work across the entire stack—from frontend interfaces and backend APIs to database optimization. 
 
-I focus on clean architecture, performance and user-friendly design, ensuring that the solutions I build are both technically robust and visually elegant.
+I focus on clean architecture, performance, and user-friendly design, ensuring that the solutions I build are both technically robust and visually elegant.
 
 <p align="center"> ──────── ✦ ⋆ ✦ ──────── </p>
 
@@ -79,11 +81,11 @@ I focus on clean architecture, performance and user-friendly design, ensuring th
 
 ## Currently Focused On ✦
 
- ◦ Building full-stack web applications
- ◦ Architecting backend systems & APIs
- ◦ Database design & query optimization  
- ◦ Enhancing UI/UX for better accessibility  
- ◦ Designing scalable system architecture  
+- ◦ Building full-stack web applications
+- ◦ Architecting backend systems & APIs
+- ◦ Database design & query optimization  
+- ◦ Enhancing UI/UX for better accessibility  
+- ◦ Designing scalable system architecture  
 
 <p align="center"> ──────── ✦ ⋆ ✦ ──────── </p>
 
